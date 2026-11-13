@@ -30,17 +30,7 @@
 - ⚙️ **Reliable pipelines:** I build data collection that survives rate limits, retries, and large batches.
 - 🤝 **Leadership:** I captained a 40+ member FIRST Robotics team and led a team of 6 to build a repo trust-scoring model.
 
-### 🧁 Off the clock
-
-Away from my laptop, you will probably find me in the kitchen. I **love baking**, and I think it has a lot in common with machine learning: both reward careful measurements, patience, and a willingness to run the experiment again when the first batch does not turn out right.
-
-My favorite things to make:
-
-| | |
-|---|---|
-| 🍰 **Basque cheesecake** | Creamy inside, with that deeply caramelized top |
-| 🎂 **Eggless chocolate chip vanilla cake** | Vanilla cake with chocolate chips, no eggs needed |
-| 🍝 **Alfredo pasta, entirely from scratch** | Fresh pasta *and* the sauce, made by hand |
+Off the clock, you will probably find me in the kitchen. I **love baking**, and I think it has a lot in common with machine learning: both reward careful measurements, patience, and a willingness to run the experiment again when the first batch does not turn out right.
 
 ## 🎓 Education & Credentials
 
