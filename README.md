@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/neha-modi12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;CS+%2B+Statistics+%40+University+of+Washington+%F0%9F%8E%93;Break+Through+Tech+AI+Fellow+%40+Microsoft+%F0%9F%9A%80;Fueled+by+Basque+cheesecake+%F0%9F%8D%B0" alt="Typing animation: Aspiring Machine Learning Engineer, CS and Statistics at the University of Washington, Break Through Tech AI Fellow at Cornell Tech, fueled by Basque cheesecake"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;CS+%2B+Statistics+%40+University+of+Washington+%F0%9F%8E%93;Break+Through+Tech+AI+Fellow+%40+Microsoft+%F0%9F%9A%80;Fueled+by+Basque+cheesecake+%F0%9F%8D%B0" alt="Typing animation: Aspiring Machine Learning Engineer, CS and Statistics at the University of Washington, Break Through Tech AI Fellow at Cornell Tech"/>
   </a>
 </p>
 
