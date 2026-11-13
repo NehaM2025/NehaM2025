@@ -19,13 +19,13 @@
 
 ## 👋 About Me
 
-I'm a second-year **Computer Science & Statistics (Data Science)** student at the **University of Washington** and a **Break Through Tech AI Fellow** on a Microsoft Challenge Project. I'm working toward a career as a **machine learning engineer** who ships models people can trust, and I'm seeking ML engineering internships.
+I'm a second-year **Computer Science & Statistics (Data Science)** student at the **University of Washington**, building toward a career in **machine learning engineering**. I'm currently a **Break Through Tech AI Fellow** on a Microsoft Challenge Project, where I led a team of 6 in building a model that scores the quality of GitHub repositories. I'm seeking ML engineering internships.
 
-- 🔍 **Honest evaluation:** I look for label leakage, class imbalance, and hidden bias before I trust a metric.
-- ⚙️ **Reliable pipelines:** I build data collection that survives rate limits, retries, and large batches.
-- 🤝 **Leadership:** I captained a 40+ member FIRST Robotics team and led a team of 6 to build a repo trust-scoring model.
+- 🔍 **Evaluation:** On that project, repo age alone (0.988 AUC) outperformed our 15-feature model (0.976), which exposed a bias against newer repos. I check for leakage and class imbalance before trusting a metric.
+- ⚙️ **Data pipelines:** I hardened an async GitHub API client with retries, rate-limit handling, and atomic caching for large-batch collection.
+- 🤝 **Leadership:** I captained a 40+ member FIRST Robotics team and secured $40K+ in sponsorships and grants.
 
-Outside of code, I love baking (Basque cheesecake is my specialty) and a good historical movie.
+Outside of class, I bake (Basque cheesecake is my favorite) and watch historical movies.
 
 ## 🎓 Education & Credentials
 
@@ -144,6 +144,6 @@ Outside of code, I love baking (Basque cheesecake is my specialty) and a good hi
 | | |
 |---|---|
 | 🔭 **Building** | Machine learning projects through Break Through Tech Fall AI Studio |
-| 📚 **Studying** | Systems programming & Data Structures & parallelism at UW |
+| 📚 **Studying** | Systems programming, data structures, and parallelism at UW |
 | 🤝 **Next up** | Contributing to open-source data science tools |
 | 💼 **Seeking** | Machine learning engineering internships |
