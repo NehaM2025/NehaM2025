@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/neha-modi12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;CS+%2B+Statistics+%40+University+of+Washington+%F0%9F%8E%93;Break+Through+Tech+AI+Fellow+%40+Microsoft+%F0%9F%9A%80;Fueled+by+Basque+cheesecake+%F0%9F%8D%B0" alt="Typing animation: Aspiring Machine Learning Engineer, CS and Statistics at the University of Washington, Break Through Tech AI Fellow at Microsoft, fueled by Basque cheesecake"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;CS+%2B+Statistics+%40+University+of+Washington+%F0%9F%8E%93;Break+Through+Tech+AI+Fellow+%40+Microsoft+%F0%9F%9A%80;Fueled+by+Basque+cheesecake+%F0%9F%8D%B0" alt="Typing animation: Aspiring Machine Learning Engineer, CS and Statistics at the University of Washington, Break Through Tech AI Fellow at Cornell Tech, fueled by Basque cheesecake"/>
   </a>
 </p>
 
@@ -24,11 +24,11 @@
 ## 👋 About Me
 
 > [!NOTE]
-> I'm a **Computer Science & Statistics (Data Science)** student at the **University of Washington** and a **Break Through Tech AI Fellow at Microsoft**. My goal is to become a **machine learning engineer** who ships models people can trust.
+> I'm a second-year **Computer Science & Statistics (Data Science)** student at the **University of Washington** and a **Break Through Tech AI Fellow part of a Microsoft Challenge Project**. My goal is to become a **machine learning engineer** who ships models people can trust.
 
 - 🔍 **Honest evaluation:** I look for label leakage, class imbalance, and hidden bias before I trust a metric.
 - ⚙️ **Reliable pipelines:** I build data collection that survives rate limits, retries, and large batches.
-- 🤝 **Leadership:** I captained a 40+ member FIRST Robotics team and led a team of 6 in machine learning.
+- 🤝 **Leadership:** I captained a 40+ member FIRST Robotics team and led a team of 6 to build a repo trust-scoring model.
 
 ### 🧁 Off the clock
 
@@ -46,17 +46,14 @@ When I am not baking, I am usually watching a **historical movie** or getting lo
 
 <br/>
 
-### 📈 At a Glance
+## 🎓 Education & Credentials
 
-<table align="center">
-  <tr>
-    <td align="center"><h2>3.97</h2><sub><b>GPA</b><br/>UW CS &amp; Statistics</sub></td>
-    <td align="center"><h2>6</h2><sub><b>person team led</b><br/>Break Through Tech</sub></td>
-    <td align="center"><h2>0.976</h2><sub><b>test ROC-AUC</b><br/>repo trust scoring</sub></td>
-    <td align="center"><h2>$40K+</h2><sub><b>secured</b><br/>FIRST Robotics</sub></td>
-    <td align="center"><h2>4×</h2><sub><b>Dean's List</b><br/>UW</sub></td>
-  </tr>
-</table>
+| | |
+|---|---|
+| 🏛️ **University of Washington, Seattle** | B.A.S. in Computer Science & Statistics: Data Science · Expected June 2029 · GPA 3.97 |
+| 📚 **Coursework** | Hardware & Software Interfaces · Systems Programming · Data Structures & Parallelism · Introduction to Data Management · Calculus IV & Linear Algebra |
+| 🏆 **Awards** | Dean's List (×4) · John Colleran & Michelle Kastner Colleran Endowed Scholarship (×2) |
+| 📜 **Certifications** | Cornell University: Machine Learning Foundations (Aug 2026) · Interactive Intelligence: Intro to Neuroscience/AI (Dec 2025) |
 
 <br/>
 
@@ -176,19 +173,6 @@ While building the trust-scoring model, I noticed that **repo age alone (0.988 A
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 
 </div>
-
-<br/>
-
-## 🎓 Education & Credentials
-
-| | |
-|---|---|
-| 🏛️ **University of Washington, Seattle** | B.A.S. in Computer Science & Statistics: Data Science · Expected June 2029 · GPA 3.97 |
-| 📚 **Coursework** | Hardware & Software Interfaces · Systems Programming · Data Structures & Parallelism · Introduction to Data Management · Calculus IV & Linear Algebra |
-| 🏆 **Awards** | Dean's List (×4) · John Colleran & Michelle Kastner Colleran Endowed Scholarship (×2) |
-| 📜 **Certifications** | Cornell University: Machine Learning Foundations (Aug 2026) · Interactive Intelligence: Intro to Neuroscience/AI (Dec 2025) |
-
-<br/>
 
 ## 🌱 What I'm Up To
 
