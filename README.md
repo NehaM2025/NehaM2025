@@ -17,8 +17,6 @@
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-See%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Jump to projects"/></a>
 </p>
 
-<br/>
-
 ## 👋 About Me
 
 I'm a second-year **Computer Science & Statistics (Data Science)** student at the **University of Washington** and a **Break Through Tech AI Fellow** on a Microsoft Challenge Project. I'm working toward a career as a **machine learning engineer** who ships models people can trust, and I'm seeking ML engineering internships.
