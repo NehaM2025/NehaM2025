@@ -1,27 +1,23 @@
-<div align="center">
+<h1 align="center">Hi, I'm Neha 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E83,60:7C3AED,100:B7A57A&height=240&section=header&text=Neha%20Modi&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20CS%20%26%20Statistics%20%40%20UW&descSize=20&descAlignY=60" alt="Neha Modi banner" width="100%"/>
+<p align="center">
+  <a href="https://linkedin.com/in/neha-modi12">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;CS+%2B+Statistics+%40+University+of+Washington+%F0%9F%8E%93;Break+Through+Tech+AI+Fellow+%40+Microsoft+%F0%9F%9A%80;Fueled+by+Basque+cheesecake+%F0%9F%8D%B0" alt="Typing animation: Aspiring Machine Learning Engineer, CS and Statistics at the University of Washington, Break Through Tech AI Fellow at Microsoft, fueled by Basque cheesecake"/>
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/neha-modi12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;CS+%2B+Statistics+%40+University+of+Washington+%F0%9F%8E%93;Break+Through+Tech+AI+Fellow+%40+Microsoft+%F0%9F%9A%80;I+build+ML+models+you+can+actually+trust+%F0%9F%93%8A" alt="Typing animation: Aspiring Machine Learning Engineer, CS and Statistics at the University of Washington, Break Through Tech AI Fellow at Microsoft"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/neha-modi12"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:nehakm2025@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+  <a href="#-experience"><img src="https://img.shields.io/badge/Experience-See%20My%20Roles-4B2E83?style=for-the-badge&logo=microsoft&logoColor=white" alt="Jump to experience"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-See%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Jump to projects"/></a>
+</p>
 
-<br/>
-
-<a href="https://linkedin.com/in/neha-modi12"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="mailto:nehakm2025@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
-<a href="#-experience"><img src="https://img.shields.io/badge/Experience-See%20My%20Roles-4B2E83?style=for-the-badge&logo=microsoft&logoColor=white" alt="Jump to experience"/></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-See%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Jump to projects"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Seattle,_WA-4B2E83?style=flat-square" alt="Seattle, WA"/>
-<img src="https://img.shields.io/badge/🎓_UW_Class_of_2029-4B2E83?style=flat-square" alt="University of Washington, class of 2029"/>
-<img src="https://img.shields.io/badge/🔎_Seeking_ML_Engineering_Internships-7C3AED?style=flat-square" alt="Seeking machine learning engineering internships"/>
-
-<br/><br/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Seattle,_WA-4B2E83?style=flat-square" alt="Seattle, WA"/>
+  <img src="https://img.shields.io/badge/🎓_UW_Class_of_2029-4B2E83?style=flat-square" alt="University of Washington, class of 2029"/>
+  <img src="https://img.shields.io/badge/🔎_Seeking_ML_Engineering_Internships-7C3AED?style=flat-square" alt="Seeking machine learning engineering internships"/>
+</p>
 
 <br/>
 
@@ -33,6 +29,34 @@
 - 🔍 **Honest evaluation:** I look for label leakage, class imbalance, and hidden bias before I trust a metric.
 - ⚙️ **Reliable pipelines:** I build data collection that survives rate limits, retries, and large batches.
 - 🤝 **Leadership:** I captained a 40+ member FIRST Robotics team and led a team of 6 in machine learning.
+
+### 🧁 Off the clock
+
+Away from my laptop, you will probably find me in the kitchen. I **love baking**, and I think it has a lot in common with machine learning: both reward careful measurements, patience, and a willingness to run the experiment again when the first batch does not turn out right.
+
+My favorite things to make:
+
+| | |
+|---|---|
+| 🍰 **Basque cheesecake** | Creamy inside, with that deeply caramelized top |
+| 🎂 **Eggless chocolate chip vanilla cake** | Vanilla cake with chocolate chips, no eggs needed |
+| 🍝 **Alfredo pasta, entirely from scratch** | Fresh pasta *and* the sauce, made by hand |
+
+When I am not baking, I am usually watching a **historical movie** or getting lost in a **romantic fantasy** story. Recommendations are always welcome. 🎬✨
+
+<br/>
+
+### 📈 At a Glance
+
+<table align="center">
+  <tr>
+    <td align="center"><h2>3.97</h2><sub><b>GPA</b><br/>UW CS &amp; Statistics</sub></td>
+    <td align="center"><h2>6</h2><sub><b>person team led</b><br/>Break Through Tech</sub></td>
+    <td align="center"><h2>0.976</h2><sub><b>test ROC-AUC</b><br/>repo trust scoring</sub></td>
+    <td align="center"><h2>$40K+</h2><sub><b>secured</b><br/>FIRST Robotics</sub></td>
+    <td align="center"><h2>4×</h2><sub><b>Dean's List</b><br/>UW</sub></td>
+  </tr>
+</table>
 
 <br/>
 
@@ -113,6 +137,14 @@
   </tr>
 </table>
 
+<details>
+<summary><b>🔍 The finding I'm proudest of (click to expand)</b></summary>
+<br/>
+
+While building the trust-scoring model, I noticed that **repo age alone (0.988 AUC) beat my full 15-feature model (0.976 AUC)**. A strong score is not always a strong model. It meant the classifier could be quietly penalizing newer repos that are genuinely good, so I flagged the bias risk instead of celebrating the metric.
+
+</details>
+
 <br/>
 
 ## 🛠️ Tech Stack
@@ -179,6 +211,14 @@ Uncomment this block once your contribution graph is green (stats cards with lit
 </div>
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E83,60:7C3AED,100:B7A57A&height=120&section=footer" alt="Footer wave" width="100%"/>
+## 📫 Let's Connect
+
+<div align="center">
+
+Whether it's an internship, a project idea, or a conversation about ML, I'd love to hear from you.
+
+<a href="https://linkedin.com/in/neha-modi12"><img src="https://img.shields.io/badge/LinkedIn-neha--modi12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nehakm2025@gmail.com"><img src="https://img.shields.io/badge/Email-nehakm2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 
 </div>
