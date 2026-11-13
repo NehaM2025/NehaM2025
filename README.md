@@ -19,13 +19,11 @@
 
 ## 👋 About Me
 
-I'm a second-year **Computer Science & Statistics (Data Science)** student at the **University of Washington**, building toward a career in **machine learning engineering**. I'm currently a **Break Through Tech AI Fellow** on a Microsoft Challenge Project, where I led a team of 6 in building a model that scores the quality of GitHub repositories. I'm seeking ML engineering internships.
+I'm a second-year **Computer Science** and **Statistics: Data Science** student at the **University of Washington**, working toward a career in **machine learning**.
 
-- 🔍 **Evaluation:** On that project, repo age alone (0.988 AUC) outperformed our 15-feature model (0.976), which exposed a bias against newer repos. I check for leakage and class imbalance before trusting a metric.
-- ⚙️ **Data pipelines:** I hardened an async GitHub API client with retries, rate-limit handling, and atomic caching for large-batch collection.
-- 🤝 **Leadership:** I captained a 40+ member FIRST Robotics team and secured $40K+ in sponsorships and grants.
+I came to college with a background in business and relatively little programming background. Since then, I've spent much of my time learning to think about problems in entirely new ways, from proving why an algorithm works to understanding the mathematics behind how models learn. While I've loved exploring the theoretical side of computing, I want to take those ideas beyond the classroom and build things that make a difference in people's lives. That's what draws me to machine learning: the opportunity to work at the intersection of mathematical ideas and practical problem-solving, while building ML systems that are useful, reliable, and accessible.
 
-Outside of class, I bake (Basque cheesecake is my favorite) and watch historical movies.
+Outside of class, I'm usually baking (Basque cheesecake is my favorite 🍰), watching historical movies, or convincing myself I can finish just one more NYT Connections puzzle. 🧩
 
 ## 🎓 Education & Credentials
 
