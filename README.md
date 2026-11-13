@@ -2,35 +2,32 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/neha-modi12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;CS+%2B+Statistics+%40+University+of+Washington+%F0%9F%8E%93;Break+Through+Tech+AI+Fellow+%40+Microsoft+%F0%9F%9A%80;Fueled+by+Basque+cheesecake+%F0%9F%8D%B0" alt="Typing animation: Aspiring Machine Learning Engineer, CS and Statistics at the University of Washington, Break Through Tech AI Fellow @ Cornell Tech"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Aspiring+Machine+Learning+Engineer+%F0%9F%A4%96;CS+%2B+Statistics+%40+University+of+Washington+%F0%9F%8E%93;Break+Through+Tech+AI+Fellow+%40+Microsoft+%F0%9F%9A%80" alt="Typing animation: Aspiring Machine Learning Engineer, CS and Statistics at the University of Washington, Break Through Tech AI Fellow"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/neha-modi12"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-  <a href="mailto:nehakm2025@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
-  <a href="#-experience"><img src="https://img.shields.io/badge/Experience-See%20My%20Roles-4B2E83?style=for-the-badge&logo=microsoft&logoColor=white" alt="Jump to experience"/></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-See%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Jump to projects"/></a>
+  📧 <a href="mailto:nehakm2025@gmail.com">nehakm2025@gmail.com</a> · 🎓 UW Class of 2029 · 📍 Seattle, WA
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Seattle,_WA-4B2E83?style=flat-square" alt="Seattle, WA"/>
-  <img src="https://img.shields.io/badge/🎓_UW_Class_of_2029-4B2E83?style=flat-square" alt="University of Washington, class of 2029"/>
-  <img src="https://img.shields.io/badge/🔎_Seeking_ML_Engineering_Internships-7C3AED?style=flat-square" alt="Seeking machine learning engineering internships"/>
+  <a href="https://linkedin.com/in/neha-modi12"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:nehakm2025@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to nehakm2025@gmail.com"/></a>
+  <a href="#-experience"><img src="https://img.shields.io/badge/Experience-See%20My%20Roles-4B2E83?style=for-the-badge&logo=microsoft&logoColor=white" alt="Jump to experience"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-See%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Jump to projects"/></a>
 </p>
 
 <br/>
 
 ## 👋 About Me
 
-> [!NOTE]
-> I'm a second-year **Computer Science & Statistics (Data Science)** student at the **University of Washington** and a **Break Through Tech AI Fellow part of a Microsoft Challenge Project**. My goal is to become a **machine learning engineer** who ships models people can trust.
+I'm a second-year **Computer Science & Statistics (Data Science)** student at the **University of Washington** and a **Break Through Tech AI Fellow** on a Microsoft Challenge Project. I'm working toward a career as a **machine learning engineer** who ships models people can trust, and I'm seeking ML engineering internships.
 
 - 🔍 **Honest evaluation:** I look for label leakage, class imbalance, and hidden bias before I trust a metric.
 - ⚙️ **Reliable pipelines:** I build data collection that survives rate limits, retries, and large batches.
 - 🤝 **Leadership:** I captained a 40+ member FIRST Robotics team and led a team of 6 to build a repo trust-scoring model.
 
-Off the clock, you will probably find me in the kitchen. I **love baking**, and I think it has a lot in common with machine learning: both reward careful measurements, patience, and a willingness to run the experiment again when the first batch does not turn out right.
+Outside of code, I love baking (Basque cheesecake is my specialty) and a good historical movie.
 
 ## 🎓 Education & Credentials
 
@@ -148,10 +145,7 @@ Off the clock, you will probably find me in the kitchen. I **love baking**, and 
 
 | | |
 |---|---|
-| 🔭 **Building** | Machine learning projects through Break Through Tech AI Studio |
-| 📚 **Studying** | Systems programming and parallelism in C/C++ at UW |
+| 🔭 **Building** | Machine learning projects through Break Through Tech Fall AI Studio |
+| 📚 **Studying** | Systems programming & Data Structures & parallelism at UW |
 | 🤝 **Next up** | Contributing to open-source data science tools |
 | 💼 **Seeking** | Machine learning engineering internships |
-
-<br/>
-</div>
