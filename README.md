@@ -41,8 +41,6 @@ Off the clock, you will probably find me in the kitchen. I **love baking**, and 
 | 🏆 **Awards** | Dean's List (×4) · John Colleran & Michelle Kastner Colleran Endowed Scholarship (×2) |
 | 📜 **Certifications** | Cornell University: Machine Learning Foundations (Aug 2026) · Interactive Intelligence: Intro to Neuroscience/AI (Dec 2025) |
 
-<br/>
-
 ## 💼 Experience
 ### 🧠 Break Through Tech AI Fellow · Microsoft
 `April 2026 – Present` · New York, NY
@@ -63,7 +61,6 @@ Off the clock, you will probably find me in the kitchen. I **love baking**, and 
 
 - Directed 40+ members and pitched to 30+ industry professionals and state representatives, securing **$40K+** in sponsorships and grants that removed team entry-fee barriers
 - Organized **70+ outreach events** reaching 10,000+ students and wrote 100+ pages of documentation, including a business plan, supporting two World Championship qualifications and an Impact Award win in the team's first two years
-<br/>
 
 ## 🚀 Featured Projects
 <table>
@@ -116,8 +113,6 @@ Off the clock, you will probably find me in the kitchen. I **love baking**, and 
     </td>
   </tr>
 </table>
-
-<br/>
 
 ## 🛠️ Tech Stack
 
