@@ -21,7 +21,7 @@
 
 I'm a second-year **Computer Science** and **Statistics: Data Science** student at the **University of Washington**, working toward a career in **machine learning**.
 
-I came to college with a background in business and relatively little programming background. Since then, I've spent much of my time learning to think about problems in entirely new ways, from proving why an algorithm works to understanding the mathematics behind how models learn. While I've loved exploring the theoretical side of computing, I want to take those ideas beyond the classroom and build things that make a difference in people's lives. That's what draws me to machine learning: the opportunity to work at the intersection of mathematical ideas and practical problem-solving, while building ML systems that are useful, reliable, and accessible.
+I came to college with a background in business and relatively little programming background. Since then, I've spent much of my time learning to think about problems in entirely new ways, from proving why an algorithm works to understanding the mathematics behind how models learn. While I've loved exploring the theoretical side of computing, I want to take those ideas beyond the classroom and build things that make a difference in people's lives. That's what draws me to ML: the opportunity to work at the intersection of mathematical ideas and practical problem-solving, while building ML systems that are useful, reliable, and accessible.
 
 Outside of class, I'm usually baking (Basque cheesecake is my favorite 🍰), watching historical movies, or convincing myself I can finish just one more NYT Connections puzzle. 🧩
 
