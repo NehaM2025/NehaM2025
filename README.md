@@ -43,9 +43,7 @@ My favorite things to make:
 | 🍝 **Alfredo pasta, entirely from scratch** | Fresh pasta *and* the sauce, made by hand |
 
 When I am not baking, I am usually watching a **historical movie** or getting lost in a **romantic fantasy** story. Recommendations are always welcome. 🎬✨
-
 <br/>
-
 ## 🎓 Education & Credentials
 
 | | |
