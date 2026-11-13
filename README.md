@@ -79,7 +79,7 @@ My favorite things to make:
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>🥇 <a href="https://github.com/NehaM2025/github-repo-trust-scoring">github-repo-trust-scoring</a></h3>
+      <h3>🥇 <a href=">https://github.com/Break-Through-Tech/Microsoft-3A-github-repo-trust-signals</a></h3>
       <sub><b>Break Through Tech AI Studio</b></sub>
       <p>Scores GitHub repositories to separate real, high-quality work from low-engagement noise.</p>
       <p>
