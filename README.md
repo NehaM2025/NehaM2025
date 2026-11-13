@@ -42,8 +42,6 @@ My favorite things to make:
 | 🎂 **Eggless chocolate chip vanilla cake** | Vanilla cake with chocolate chips, no eggs needed |
 | 🍝 **Alfredo pasta, entirely from scratch** | Fresh pasta *and* the sauce, made by hand |
 
-When I am not baking, I am usually watching a **historical movie** or getting lost in a **romantic fantasy** story. Recommendations are always welcome. 🎬✨
-<br/>
 ## 🎓 Education & Credentials
 
 | | |
@@ -56,7 +54,6 @@ When I am not baking, I am usually watching a **historical movie** or getting lo
 <br/>
 
 ## 💼 Experience
-
 ### 🧠 Break Through Tech AI Fellow · Microsoft
 `April 2026 – Present` · New York, NY
 
@@ -76,11 +73,9 @@ When I am not baking, I am usually watching a **historical movie** or getting lo
 
 - Directed 40+ members and pitched to 30+ industry professionals and state representatives, securing **$40K+** in sponsorships and grants that removed team entry-fee barriers
 - Organized **70+ outreach events** reaching 10,000+ students and wrote 100+ pages of documentation, including a business plan, supporting two World Championship qualifications and an Impact Award win in the team's first two years
-
 <br/>
 
 ## 🚀 Featured Projects
-
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -132,14 +127,6 @@ When I am not baking, I am usually watching a **historical movie** or getting lo
   </tr>
 </table>
 
-<details>
-<summary><b>🔍 The finding I'm proudest of (click to expand)</b></summary>
-<br/>
-
-While building the trust-scoring model, I noticed that **repo age alone (0.988 AUC) beat my full 15-feature model (0.976 AUC)**. A strong score is not always a strong model. It meant the classifier could be quietly penalizing newer repos that are genuinely good, so I flagged the bias risk instead of celebrating the metric.
-
-</details>
-
 <br/>
 
 ## 🛠️ Tech Stack
@@ -182,25 +169,4 @@ While building the trust-scoring model, I noticed that **repo age alone (0.988 A
 | 💼 **Seeking** | Machine learning engineering internships |
 
 <br/>
-
-<!--
-Uncomment this block once your contribution graph is green (stats cards with little activity do not help you):
-
-## 📊 GitHub Stats
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NehaM2025&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaM2025&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</div>
--->
-
-## 📫 Let's Connect
-
-<div align="center">
-
-Whether it's an internship, a project idea, or a conversation about ML, I'd love to hear from you.
-
-<a href="https://linkedin.com/in/neha-modi12"><img src="https://img.shields.io/badge/LinkedIn-neha--modi12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nehakm2025@gmail.com"><img src="https://img.shields.io/badge/Email-nehakm2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-
 </div>
